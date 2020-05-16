@@ -1,3 +1,1 @@
-# Python-data-structure-tips
-list comprhension, flatten list, pandas, numpy, dictionnary...
-Use simple python code to handle difficult problem in data structure. All tips come from various websites post like stackoverflow, python.org
+
